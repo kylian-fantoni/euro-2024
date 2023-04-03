@@ -1,0 +1,14 @@
+header {
+    position: relative;
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+}
+
+header h1 {
+  text-align: center;
+  padding: 100px;
+  font-family: 'Roboto', serif;
+  color: #FFFFFF;
+  text-shadow: 2px 2px 4px #000000;
+}

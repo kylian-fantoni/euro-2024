@@ -1,0 +1,10 @@
+.banner {
+    position: relative;
+    width: 100%;
+    height: 300px; 
+    overflow: hidden;
+    background-image: linear-gradient(-225deg, black 27%, orange 65%, yellow 1%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
